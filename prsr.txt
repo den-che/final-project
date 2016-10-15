@@ -1,0 +1,1574 @@
+
+
+
+
+	<colgroup>
+		<col />
+		<col />
+		<col />
+		<col />
+	</colgroup>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/181c8540-5dbc-46c1-bbc1-d4356912db18" target="_blank" class="num_case">
+							СИП-650/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+						<div title="Суд по интеллектуальным правам">Суд по интеллектуальным правам</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ДАНФОСС&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ДАНФОСС&quot;</strong><br />
+										143581, МОСКОВСКАЯ обл, ИСТРИНСКИЙ р-н, ЛЕШКОВО д, д.217
+											<div>
+												ИНН: 5017050538
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/1d4a658f-b276-437d-b088-f78a919886b9" target="_blank" class="num_case">
+							СИП-649/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+						<div title="Суд по интеллектуальным правам">Суд по интеллектуальным правам</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ЛАКОМКА&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ЛАКОМКА&quot;</strong><br />
+										156005, КОСТРОМСКАЯ обл, КОСТРОМА г, СОВЕТСКАЯ ул, д.61А
+											<div>
+												ИНН: 4401097413
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО ПРОДЮСЕРСКАЯ ФИРМА &quot;САМЫЙ СМАК&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО ПРОДЮСЕРСКАЯ ФИРМА &quot;САМЫЙ СМАК&quot;</strong><br />
+										123423, МОСКВА г, КАРАМЫШЕВСКАЯ наб, д.20, к.1
+											<div>
+												ИНН: 7730118696
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/55522f3b-9142-4f7a-8dd1-b8dff8e2c400" target="_blank" class="num_case">
+							СИП-648/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Снегур А. А.">Снегур А. А.</div>
+						<div title="Суд по интеллектуальным правам">Суд по интеллектуальным правам</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ТОРГОВЫЙ ДОМ &quot;РУСЬИМПОРТ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ТОРГОВЫЙ ДОМ &quot;РУСЬИМПОРТ&quot;</strong><br />
+										141960, Ул. Советская, д.165, пом.2, рабочий поселок Запрудня, Талдомский р-н, Московская область
+											<div>
+												ИНН: 5078014417
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;АГРИ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;АГРИ&quot;</strong><br />
+										140014, МОСКОВСКАЯ обл, ЛЮБЕРЕЦКИЙ р-н, ЛЮБЕРЦЫ г, ХЛЕБОЗАВОДСКАЯ ул, д.5
+											<div>
+												ИНН: 5027122277
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/59192121-2f86-47b8-85fa-e10e8f42234e" target="_blank" class="num_case">
+							СИП-647/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Булгаков Д. А.">Булгаков Д. А.</div>
+						<div title="Суд по интеллектуальным правам">Суд по интеллектуальным правам</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ТОРГОВЫЙ ДОМ &quot;РУСЬИМПОРТ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ТОРГОВЫЙ ДОМ &quot;РУСЬИМПОРТ&quot;</strong><br />
+										141960, Ул. Советская, д.165, пом.2, рабочий поселок Запрудня, Талдомский р-н, Московская область
+											<div>
+												ИНН: 5078014417
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/acb784f1-111a-470d-aefe-0dbc5eb76191" target="_blank" class="num_case">
+							СИП-646/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Погадаев Н. Н.">Погадаев Н. Н.</div>
+						<div title="Суд по интеллектуальным правам">Суд по интеллектуальным правам</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									Панов Евгений Владимирович
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>Панов Евгений Владимирович</strong><br />
+										Данные скрыты
+											<div>
+												ИНН: 772301148103
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									АйПи ВНСТОР ГРУП Лимитед
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>АйПи ВНСТОР ГРУП Лимитед</strong><br />
+										Данные скрыты
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/4a1c5915-8821-4271-8f8f-9b351127b201" target="_blank" class="num_case">
+							СИП-645/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Снегур А. А.">Снегур А. А.</div>
+						<div title="Суд по интеллектуальным правам">Суд по интеллектуальным правам</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;АТЛАНТ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;АТЛАНТ&quot;</strong><br />
+										450003, ул. Силикатная, д. 3/2, г. Уфа, Республика Башкортостан
+											<div>
+												ИНН: 0253008554
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/368f7b75-1a21-4e4f-93be-e9de7a1ca432" target="_blank" class="num_case">
+							А84-4040/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Архипенко А. М.">Архипенко А. М.</div>
+						<div title="АС города Севастополя">АС города Севастополя</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;НПФ &quot;Реле&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;НПФ &quot;Реле&quot;</strong><br />
+										03150, ул. Красноармейская, 72, Киев, Украина
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/79b2d6bd-9d9d-4e41-a133-77cc98269b1e" target="_blank" class="num_case">
+							А84-4039/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Васильченко О. С.">Васильченко О. С.</div>
+						<div title="АС города Севастополя">АС города Севастополя</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ФГУП &quot;Охрана&quot; Министерства внутренних дел Российской Федерации
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ФГУП &quot;Охрана&quot; Министерства внутренних дел Российской Федерации</strong><br />
+										105066, ул. Нижняя Красносельская, д.35,стр.1А, г. Москва, РФ
+											<div>
+												ИНН: 7719555477
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									Мушинская Оксана Александровна
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>Мушинская Оксана Александровна</strong><br />
+										Данные скрыты
+											<div>
+												ИНН: 910400003590
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/7106c918-0cf1-4791-b944-776001de9d02" target="_blank" class="num_case">
+							А84-4038/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Ражков Р. А.">Ражков Р. А.</div>
+						<div title="АС города Севастополя">АС города Севастополя</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ГУП Республики Крым &quot;Крымгазсети&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ГУП Республики Крым &quot;Крымгазсети&quot;</strong><br />
+										295001, ул. Училищная, д.42 а, г. Симферополь
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									АО &quot;Русская компания&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>АО &quot;Русская компания&quot;</strong><br />
+										299011, ул. Костомаровская, дом 1/46, офис 42, г. Севастополь
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/a95ef961-30e5-436c-b111-8cc681e88e22" target="_blank" class="num_case">
+							А84-4037/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Алёшина С. М.">Алёшина С. М.</div>
+						<div title="АС города Севастополя">АС города Севастополя</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ИТ Море&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ИТ Море&quot;</strong><br />
+										299002, ул. Загордянского, 24-46, г. Севастополь
+											<div>
+												ИНН: 9102189584
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									Департамент приоритетных проектов развития города Севастополя
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>Департамент приоритетных проектов развития города Севастополя</strong><br />
+										299011, ул. Ленина, д.2, г. Севастополь
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/13bc8f49-4ed0-4938-9a00-ad7dbf2b73b7" target="_blank" class="num_case">
+							А84-4036/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Архипенко А. М.">Архипенко А. М.</div>
+						<div title="АС города Севастополя">АС города Севастополя</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;Крымский Автомобильный Дом&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;Крымский Автомобильный Дом&quot;</strong><br />
+										295022, пр. Победы, 232, г. Симферополь, РК
+											<div>
+												ИНН: 9102157631
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/64425ce3-6736-446a-be42-bbbb63a20c94" target="_blank" class="num_case">
+							А84-4035/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Алёшина С. М.">Алёшина С. М.</div>
+						<div title="АС города Севастополя">АС города Севастополя</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ГУП города Севастополя &quot;Водоканал&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ГУП города Севастополя &quot;Водоканал&quot;</strong><br />
+										299011, ул. Адм. Октябрьского, д.4, г. Севастополь
+											<div>
+												ИНН: 9204507194
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;Управляющая компания &quot;Житель&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;Управляющая компания &quot;Житель&quot;</strong><br />
+										188650, ул. Индустриальная, д.5 корп. 1 помещ. 54, г. Сертолово, Всеволжский р-н, Ленинградская область
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/8e63abc4-8804-434e-bd39-5b8743800113" target="_blank" class="num_case">
+							А84-4034/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Алёшина С. М.">Алёшина С. М.</div>
+						<div title="АС города Севастополя">АС города Севастополя</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ГУП Государственное унитраное предприятие Садовод
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ГУП Государственное унитраное предприятие Садовод</strong><br />
+										299802, Российская Федерация, село Верхнесадовое, севастополь, севастопольская, д.70
+											<div>
+												ИНН: 9203006276
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									АО Артвин
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>АО Артвин</strong><br />
+										299802, Российская Федерация, село верхнесадовое, севастополь, севастопольская , д.64
+											<div>
+												ИНН: 9203008298
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="default"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/45f2281a-cb49-47ff-9c46-965c50b2d039" target="_blank" class="num_case">
+							А83-7328/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Гайворонский В. И.">Гайворонский В. И.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ТОРГОВЫЙ ДОМ &quot;ЧЕРНОМОР&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ТОРГОВЫЙ ДОМ &quot;ЧЕРНОМОР&quot;</strong><br />
+										296500, КРЫМ Респ, САКИ г, ТРУДОВАЯ ул, д.28Г, кв.6
+											<div>
+												ИНН: 9107002335
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/d64cde85-a143-4244-b375-c855208e8fe7" target="_blank" class="num_case">
+							А83-7327/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Авдеев М. П.">Авдеев М. П.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									СЛУЖБА ФИНАНСОВОГО НАДЗОРА РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>СЛУЖБА ФИНАНСОВОГО НАДЗОРА РЕСПУБЛИКИ КРЫМ</strong><br />
+										295006, КРЫМ Респ, СИМФЕРОПОЛЬ г, ЛЕНИНА б-р, д.5/7
+											<div>
+												ИНН: 9102012153
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/8ed87211-6826-4460-942e-b28f86332e24" target="_blank" class="num_case">
+							А83-7326/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Кузнякова С. Ю.">Кузнякова С. Ю.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									СЛУЖБА ФИНАНСОВОГО НАДЗОРА РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>СЛУЖБА ФИНАНСОВОГО НАДЗОРА РЕСПУБЛИКИ КРЫМ</strong><br />
+										295006, КРЫМ Респ, СИМФЕРОПОЛЬ г, ЛЕНИНА б-р, д.5/7
+											<div>
+												ИНН: 9102012153
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/120d5071-2601-4972-b1ef-e3d51e4d4f21" target="_blank" class="num_case">
+							А83-7325/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Чумаченко С. А.">Чумаченко С. А.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ПАРК-ОТЕЛЬ &quot;МАРАТ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ПАРК-ОТЕЛЬ &quot;МАРАТ&quot;</strong><br />
+										298662, КРЫМ Респ, ЯЛТА г, ГАСПРА пгт, АЛУПКИНСКОЕ ш, д.60
+											<div>
+												ИНН: 9103016288
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;Форма-Плюс&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;Форма-Плюс&quot;</strong><br />
+										094505, ул. Кислороднаяд. 2, г. Хрустальный, Луганская область, Украина
+																																							</span>
+								</span>
+							</div>
+							<div >
+								<span class="js-rollover b-newRollover">
+									ЯЛТИНСКИЙ ГОРОДСКОЙ СОВЕТ РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ЯЛТИНСКИЙ ГОРОДСКОЙ СОВЕТ РЕСПУБЛИКИ КРЫМ</strong><br />
+										298600, КРЫМ Респ, ЯЛТА г, СОВЕТСКАЯ пл, д.1
+											<div>
+												ИНН: 9103007621
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/701e6a0f-905a-466f-8c23-bd161b339738" target="_blank" class="num_case">
+							А83-7324/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Гайворонский В. И.">Гайворонский В. И.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									Общество с ограниченной отвественностью &quot;Туризмтехнострой&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>Общество с ограниченной отвественностью &quot;Туризмтехнострой&quot;</strong><br />
+										003124, бул. Ивана Лепсе, д. 6, г. Киев, Украина
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ВИАЙПИ ИНЖИНИРИНГ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ВИАЙПИ ИНЖИНИРИНГ&quot;</strong><br />
+										295014, КРЫМ Респ, СИМФЕРОПОЛЬ г, СТРОИТЕЛЕЙ ул, д.34
+											<div>
+												ИНН: 9102171682
+											</div>
+																																							</span>
+								</span>
+							</div>
+							<div >
+								<span class="js-rollover b-newRollover">
+									Государственная акционерная холдинговая компания &quot;Черноморский судостроительный завод&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>Государственная акционерная холдинговая компания &quot;Черноморский судостроительный завод&quot;</strong><br />
+										054011, ул. Индустриальная, д. 1, г. Николаев, Украина
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/18589d32-0c8e-40b1-8d79-0b05d2f92d75" target="_blank" class="num_case">
+							А83-7323/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Якимчук Н. Ю.">Якимчук Н. Ю.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ОАО &quot;НОВАЯ ПОЛИКЛИНИКА-АСТРАХАНЬ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ОАО &quot;НОВАЯ ПОЛИКЛИНИКА-АСТРАХАНЬ&quot;</strong><br />
+										414000, АСТРАХАНСКАЯ обл, АСТРАХАНЬ г, КИРОВА ул, д.39
+											<div>
+												ИНН: 3015079009
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;СТРАХОВАЯ КОМПАНИЯ &quot;ВЕКТОР&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;СТРАХОВАЯ КОМПАНИЯ &quot;ВЕКТОР&quot;</strong><br />
+										295034, КРЫМ Респ, СИМФЕРОПОЛЬ г, ПОБЕДЫ пр-кт, д.ДОМ 28 &quot;А&quot;
+											<div>
+												ИНН: 5047149929
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/e8b4eaea-3177-42d7-b608-78fe6d7efbf8" target="_blank" class="num_case">
+							А83-7322/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Гайворонский В. И.">Гайворонский В. И.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО КОМФОРТ-РСР &quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО КОМФОРТ-РСР &quot;</strong><br />
+										298404, КРЫМ Респ, БАХЧИСАРАЙСКИЙ р-н, БАХЧИСАРАЙ г, ФРУНЗЕ ул, д.26, кв.2
+											<div>
+												ИНН: 9104001220
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									АДМИНИСТРАЦИЯ ГОРОДА БАХЧИСАРАЯ РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>АДМИНИСТРАЦИЯ ГОРОДА БАХЧИСАРАЯ РЕСПУБЛИКИ КРЫМ</strong><br />
+										298403, КРЫМ Респ, БАХЧИСАРАЙСКИЙ р-н, БАХЧИСАРАЙ г, СИМФЕРОПОЛЬСКАЯ ул, 14
+											<div>
+												ИНН: 9104002168
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/e75fa1de-67a3-4604-a049-fabbceaee3b3" target="_blank" class="num_case">
+							А83-7321/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Потопальский С. С.">Потопальский С. С.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ГУП РЕСПУБЛИКИ КРЫМ &quot;КРЫМТЕЛЕКОМ&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ГУП РЕСПУБЛИКИ КРЫМ &quot;КРЫМТЕЛЕКОМ&quot;</strong><br />
+										295000, КРЫМ Респ, СИМФЕРОПОЛЬ г, СЕРОВА ул, д.10
+											<div>
+												ИНН: 9102009087
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ КРЫМ &quot;КРЫМСКАЯ РЕСПУБЛИКАНСКАЯ КЛИНИЧЕСКАЯ ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА № 1&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ КРЫМ &quot;КРЫМСКАЯ РЕСПУБЛИКАНСКАЯ КЛИНИЧЕСКАЯ ПСИХИАТРИЧЕСКАЯ БОЛЬНИЦА № 1&quot;</strong><br />
+										295006, КРЫМ Респ, СИМФЕРОПОЛЬ г, АЛЕКСАНДРА НЕВСКОГО ул, д.27
+											<div>
+												ИНН: 9102068036
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/3d74272b-41ea-4035-88ef-4155ee129c10" target="_blank" class="num_case">
+							А83-7320/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Потопальский С. С.">Потопальский С. С.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ГУП РЕСПУБЛИКИ КРЫМ &quot;КРЫМЭНЕРГО&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ГУП РЕСПУБЛИКИ КРЫМ &quot;КРЫМЭНЕРГО&quot;</strong><br />
+										295034, КРЫМ Респ, СИМФЕРОПОЛЬ г, КИЕВСКАЯ ул, д.74/6
+											<div>
+												ИНН: 9102002878
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									МУП &#171;УПРАВКОМ &#171;КОСМОС&#187; ГОРОДСКОГО ОКРУГА ЕВПАТОРИЯ РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>МУП &#171;УПРАВКОМ &#171;КОСМОС&#187; ГОРОДСКОГО ОКРУГА ЕВПАТОРИЯ РЕСПУБЛИКИ КРЫМ</strong><br />
+										297406, КРЫМ Респ, ЕВПАТОРИЯ г, 9 МАЯ ул, д.47
+											<div>
+												ИНН: 9110088371
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="administrative_simple"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/884a2259-8102-4ad1-bc7c-6c937b5e43e1" target="_blank" class="num_case">
+							А83-7319/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Чумаченко С. А.">Чумаченко С. А.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									СЛУЖБА ГОСУДАРСТВЕННОГО СТРОИТЕЛЬНОГО НАДЗОРА РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>СЛУЖБА ГОСУДАРСТВЕННОГО СТРОИТЕЛЬНОГО НАДЗОРА РЕСПУБЛИКИ КРЫМ</strong><br />
+										295006, КРЫМ Респ, СИМФЕРОПОЛЬ г, КРЕЙЗЕРА ул, д.6
+											<div>
+												ИНН: 9102029252
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+
+					</div>
+				</td>
+			</tr>
+			<tr   class="odd"   >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/55664c50-9c2b-4c47-aef0-e2d25ba600e0" target="_blank" class="num_case">
+							А83-7318/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Кузнякова С. Ю.">Кузнякова С. Ю.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ДЕПАРТАМЕНТ ИМУЩЕСТВЕННЫХ И ЗЕМЕЛЬНЫХ ОТНОШЕНИЙ АДМИНИСТРАЦИИ ГОРОДА ЯЛТЫ РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ДЕПАРТАМЕНТ ИМУЩЕСТВЕННЫХ И ЗЕМЕЛЬНЫХ ОТНОШЕНИЙ АДМИНИСТРАЦИИ ГОРОДА ЯЛТЫ РЕСПУБЛИКИ КРЫМ</strong><br />
+										298600, КРЫМ Респ, ЯЛТА г, СОВЕТСКАЯ пл, д.1
+											<div>
+												ИНН: 9103015492
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;Радамант ЛТД&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;Радамант ЛТД&quot;</strong><br />
+										003143, ул. Заболотного, д. 15, г. Киев, Украина
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+			<tr >
+				<td class="num">
+					<div class="b-container">
+
+
+						<div class="civil"	title="14.10.2016 0:00:00">
+							<i class="b-icon">
+								<i></i>
+							</i>
+							<span>14.10.2016</span>
+						</div>
+						<a href="http://kad.arbitr.ru/Card/71ae8b86-a428-4d80-b68b-582453bae712" target="_blank" class="num_case">
+							А83-7317/2016
+						</a>
+					</div>
+				</td>
+				<td class="court">
+					<div class="b-container">
+							<div class="judge" title="Якимчук Н. Ю.">Якимчук Н. Ю.</div>
+						<div title="АС Республики Крым">АС Республики Крым</div>
+					</div>
+				</td>
+				<td class="plaintiff">
+					<div class="b-container">
+
+
+
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									ООО &quot;ТОРГОВЫЙ ДОМ &quot;МАССАНДРА&quot;
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>ООО &quot;ТОРГОВЫЙ ДОМ &quot;МАССАНДРА&quot;</strong><br />
+										298650, КРЫМ Респ, ЯЛТА г, МАССАНДРА пгт, ВИНОДЕЛА ЕГОРОВА ул, д.9А
+											<div>
+												ИНН: 9103078220
+											</div>
+									</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+				<td class="respondent">
+					<div class="b-container">
+
+
+				
+
+
+							<div >
+								<span class="js-rollover b-newRollover">
+									МИНИСТЕРСТВО ИМУЩЕСТВЕННЫХ И ЗЕМЕЛЬНЫХ ОТНОШЕНИЙ РЕСПУБЛИКИ КРЫМ
+									<span class="js-rolloverHtml" style="display: none;">
+										<strong>МИНИСТЕРСТВО ИМУЩЕСТВЕННЫХ И ЗЕМЕЛЬНЫХ ОТНОШЕНИЙ РЕСПУБЛИКИ КРЫМ</strong><br />
+										295015, КРЫМ Респ, СИМФЕРОПОЛЬ г, СЕВАСТОПОЛЬСКАЯ ул, д.17
+											<div>
+												ИНН: 9102012080
+											</div>
+																																							</span>
+								</span>
+							</div>
+
+					</div>
+				</td>
+			</tr>
+
+<input type="hidden" id="documentsPageSize" value="25" />
+<input type="hidden" id="documentsPage" value="1" />
+<input type="hidden" id="documentsTotalCount" value="14510158" />
+<input type="hidden" id="documentsPagesCount" value="40" />
