@@ -1,4 +1,12 @@
+from flask import Flask
 import requests
+
+app = Flask(__name__)
+
+@app.route('/')
+
+def index():
+	return "Hello World"
 
 def load_arbitr_data(personal_tax_number):
 	
@@ -39,18 +47,7 @@ def load_arbitr_data(personal_tax_number):
 
 	return request.text
 
+
 if __name__ == '__main__':
-
+	app.run(port=5010, debug=True)
 	print('!', load_arbitr_data('3316018105'))
-
-
-# for inn in load_inn_from_file():
-# 	raw_response = load_arbitr_data(inn)
-
-# data = [
-# 	{
-# 	'INN': '',
-
-# 	}
-# ]
-
